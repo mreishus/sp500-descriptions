@@ -1,0 +1,4 @@
+1. wget https://raw.githubusercontent.com/datasets/s-and-p-500-companies/master/data/constituents.csv
+2. make a free tiingo account
+3. put the tiingo api key at the top of the getDesc.py file (get it from https://api.tiingo.com/docs/general/connecting)
+4. run getDesc.py
